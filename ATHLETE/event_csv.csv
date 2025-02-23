@@ -1,0 +1,16 @@
+EVENT_ID,EVENT_NAME,EVENT_TYPE
+1,100m Sprint,Athletics
+2,200m Sprint,Athletics
+3,200m Freestyle,Swimming
+4,500m Freestyle,Swimming
+5,Artistic Gymnastics,Gymnastics
+6,Javelin Throw,Athletics
+7,Badminton Singles,Badminton
+8,Tennis Singles,Tennis
+9,Marathon,Athletics
+10,Basketball,Team Sport
+11,400m Sprint,Athletics
+12,400m Relay,Athletics
+13,Heptathlon,Athletics
+14,High Jump,Athletics
+15,Long Jump,Athletics
